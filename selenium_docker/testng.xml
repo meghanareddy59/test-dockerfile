@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="All Test Suite" parallel="tests" thread-count="2">-->
+<suite name="All Test Suite" parallel="tests" thread-count="2">
+    <!--<test verbose="2" preserve-order="true"  name="/home/meghanag/IdeaProjects/seleniumframework">
+     <parameter name="node_url" value="http://172.18.0.2:4445/wd/hub"></parameter>
+    -->
+  <!--  <test name="testonchrome">
+     <parameter name="browser" value="chrome"></parameter>
+        <parameter name="platform" value="linux"></parameter>
+
+        <parameter name="seleniumType" value="grid"></parameter>
+        <classes>
+            <class name="testCases.hyscaleLoginPageTestCase"/>
+            <class name="testCases.packageElementsVerification"/>
+            <class name="testCases.baseImagesElementsVerification"/>
+            <class name="testCases.baseImagesNegativeTestCases"/>
+
+            <class name="testCases.PackageNegativeTestCases"/>
+            <class name="testCases.agentsElementVerification"/>
+            <class name="testCases.agentNegativeTestCases"/>
+
+
+            <class name="testCases.osImageElementsVerification"/>
+            <class name="testCases.osImageTestCases"/>
+
+            <class name="testCases.Infrastructure.artifactRepoNegativeScenarios"/>
+            <class name="testCases.Infrastructure.artifactRepoElementsVerification"/>
+            &lt;!&ndash;<class name="testCases.Infrastructure.certificateTestCases"/>
+            <class name="testCases.Infrastructure.containerRegistryNegativeTestCases"/>&ndash;&gt;
+
+            <class name="testCases.Infrastructure.kubernetesClusterElementsVerification"/>
+
+
+            <class name="testCases.Infrastructure.clusterAlertMsgTestCases"/>
+            <class name="testCases.Infrastructure.kubernetesClusterElementsVerification"/>
+
+
+        </classes>
+    </test>-->
+
+    <test name="testoncfirefox">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="platform" value="windows"></parameter>
+
+        <parameter name="seleniumType" value="grid"></parameter>
+        <classes>
+            <class name="testCases.hyscaleLoginPageTestCase"/>
+            <class name="testCases.packageElementsVerification"/>
+            <class name="testCases.baseImagesElementsVerification"/>
+            <class name="testCases.baseImagesNegativeTestCases"/>
+
+            <class name="testCases.PackageNegativeTestCases"/>
+            <class name="testCases.agentsElementVerification"/>
+            <class name="testCases.agentNegativeTestCases"/>
+
+
+            <class name="testCases.osImageElementsVerification"/>
+            <class name="testCases.osImageTestCases"/>
+
+            <class name="testCases.Infrastructure.artifactRepoNegativeScenarios"/>
+            <class name="testCases.Infrastructure.artifactRepoElementsVerification"/>
+            <!--<class name="testCases.Infrastructure.certificateTestCases"/>
+            <class name="testCases.Infrastructure.containerRegistryNegativeTestCases"/>-->
+
+            <class name="testCases.Infrastructure.kubernetesClusterElementsVerification"/>
+
+
+            <class name="testCases.Infrastructure.clusterAlertMsgTestCases"/>
+            <class name="testCases.Infrastructure.kubernetesClusterElementsVerification"/>
+
+
+        </classes>
+    </test>
+
+</suite>

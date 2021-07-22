@@ -1,0 +1,141 @@
+[INFO ] 2021-02-24 13:57:11.161 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 13:57:14.998 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 13:57:15.025 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 13:57:15.091 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 13:57:25.151 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 13:57:25.153 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 13:57:25.192 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 13:57:29.907 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 13:58:01.586 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 13:58:02.793 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 13:58:46.647 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 13:58:49.515 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 13:58:49.539 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 13:58:49.611 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 13:59:02.948 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 13:59:02.949 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 13:59:02.982 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 13:59:05.802 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 13:59:37.776 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 13:59:53.164 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 13:59:56.119 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 13:59:56.140 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 13:59:56.212 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 14:00:06.293 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 14:00:06.293 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 14:00:06.322 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:00:09.207 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:00:40.563 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 14:02:10.582 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 14:02:13.597 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 14:02:13.617 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 14:02:13.677 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 14:02:20.590 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 14:02:20.590 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 14:02:20.632 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:02:23.605 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:02:54.930 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 14:03:33.654 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 14:03:36.548 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 14:03:36.568 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 14:03:36.635 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 14:03:47.418 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 14:03:47.419 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 14:03:47.452 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:03:50.419 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 14:03:52.591 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:17:08.404 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:17:11.353 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:17:11.375 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:17:11.438 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:17:21.608 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:17:21.608 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:17:21.640 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:17:24.404 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:17:25.054 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:17:26.689 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:18:19.566 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:18:22.554 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:18:22.573 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:18:22.622 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:18:31.966 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:18:31.967 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:18:31.999 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:18:34.955 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:18:35.578 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:18:37.238 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:19:08.607 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:29:54.621 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:29:57.616 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:29:57.636 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:29:57.699 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:30:06.875 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:30:06.875 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:30:06.910 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:30:09.560 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:30:10.224 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:30:11.821 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:30:13.555 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:45:34.235 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:45:37.237 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:45:37.258 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:45:37.319 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:45:44.691 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:45:44.691 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:45:44.723 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:45:47.628 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:45:48.298 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:45:49.912 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:45:52.007 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:46:26.184 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:46:29.020 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:46:29.045 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:46:29.107 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:46:36.263 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:46:36.263 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:46:36.298 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:46:39.120 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:46:39.795 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:46:41.465 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:46:44.340 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:48:00.879 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:48:03.728 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:48:03.747 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:48:03.806 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:48:10.405 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:48:10.405 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:48:10.435 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:48:13.156 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:48:13.856 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:48:15.569 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:48:18.272 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:48:46.795 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:48:49.700 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:48:49.717 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:48:49.766 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:48:55.979 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:48:55.980 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:48:56.021 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:48:56.726 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:49:01.579 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:49:04.365 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:49:04.389 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:49:04.454 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:49:13.083 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:49:13.084 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:49:13.127 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:49:15.961 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:49:16.637 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:49:18.272 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:49:20.136 [main] hyscaleLoginPageTestCase - ended
+[INFO ] 2021-02-24 15:49:53.580 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-24 15:49:56.269 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-24 15:49:56.292 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-24 15:49:56.352 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-24 15:50:06.633 [TestNG-tests-1] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-24 15:50:06.633 [TestNG-tests-1] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-24 15:50:06.668 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:50:09.430 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:50:10.100 [TestNG-tests-1] containerRegistryNegativeTestCases - artifactRepo testcases started
+[INFO ] 2021-02-24 15:50:11.682 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-24 15:50:14.195 [main] hyscaleLoginPageTestCase - ended

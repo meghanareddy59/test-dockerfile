@@ -1,0 +1,38 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: uipv
+spec:
+  storageClassName: hyscale-sc
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+
+---
+
+
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ui-test
+spec:
+  template:
+    spec:
+      containers:
+      - name: hyscale-ui-tests
+        image: gcr.io/hyscale-dev-env/selenium
+        imagePullPolicy: Always
+        command: ["/bin/sh", "-c"]
+        args:
+                - mvn clean test -Ddomain=dev.hyscale.io -Dusername=meghanaqa@hyscale.com -DPassword=Hysc@l3@987 -Dnode_url=http://34.82.245.81/wd/hub  -Dbuild_number=30 -Drelease=1.7 -Dtoken=kZItDV0n46tYeptJqX3RA90Syhi6Jbvl -Dbucket=UI-builds  -Dorg=hyscale;
+        
+        volumeMounts:
+          - name: studio-ui-m2
+            mountPath: /root/.m2
+      volumes:
+       - name: studio-ui-m2
+         persistentVolumeClaim:
+            claimName: uipv
+      restartPolicy: Never

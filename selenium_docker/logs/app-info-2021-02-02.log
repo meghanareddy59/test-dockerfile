@@ -1,0 +1,293 @@
+[INFO ] 2021-02-02 16:42:50.916 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:42:54.208 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:42:54.235 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:42:54.302 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:43:03.583 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:43:03.584 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:43:03.589 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:43:03.622 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:43:03.623 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:43:04.078 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:46:06.666 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:46:11.475 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:46:11.503 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:46:11.569 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:46:21.324 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:46:21.325 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:46:21.329 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:46:21.363 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:46:21.365 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:46:21.776 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:49:04.437 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:49:07.708 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:49:07.735 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:49:07.795 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:49:17.508 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:49:17.508 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:49:17.514 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:49:17.552 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:49:17.554 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:49:17.969 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:51:56.180 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:51:59.257 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:51:59.283 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:51:59.352 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:52:08.577 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:52:08.577 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:52:08.581 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:52:08.613 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:52:08.615 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:52:09.057 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:53:43.593 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:53:46.546 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:53:46.571 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:53:46.634 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:53:54.990 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:53:54.991 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:53:54.995 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:53:55.039 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:53:55.042 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:53:55.426 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:54:32.798 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:54:36.613 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:54:36.633 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:54:36.678 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:54:46.782 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:54:46.784 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:54:46.789 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:54:46.820 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:54:46.822 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:54:47.213 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:56:12.579 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:56:15.429 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:56:15.449 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:56:15.507 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:56:23.648 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:56:23.649 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:56:23.655 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:56:23.693 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:56:23.694 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:56:24.099 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 16:57:44.132 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 16:57:47.612 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 16:57:47.635 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 16:57:47.698 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 16:57:54.495 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 16:57:54.496 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 16:57:54.499 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 16:57:54.535 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 16:57:54.537 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 16:57:55.185 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 17:04:46.669 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:04:50.279 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:04:50.305 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:04:50.377 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:04:58.262 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:04:58.262 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:04:58.267 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:04:58.299 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:04:58.301 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:04:58.759 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 17:06:34.473 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:06:37.334 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:06:37.357 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:06:37.422 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:06:47.283 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:06:47.284 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:06:47.288 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:06:47.321 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:06:47.322 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:06:47.752 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 17:07:29.687 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:07:32.632 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:07:32.661 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:07:32.734 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:07:39.778 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:07:39.779 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:07:39.782 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:07:39.817 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:07:39.818 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:07:40.233 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 17:08:16.999 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:08:19.960 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:08:19.985 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:08:20.047 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:08:27.950 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:08:27.950 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:08:27.954 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:08:27.984 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:08:27.985 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:08:28.388 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 17:12:53.495 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:12:56.395 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:12:56.420 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:12:56.485 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:13:06.607 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:13:06.607 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:13:06.611 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:13:06.644 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:13:06.646 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:17:33.123 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 17:17:36.381 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 17:17:36.397 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 17:17:36.443 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 17:17:45.633 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 17:17:45.633 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 17:17:45.637 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 17:17:45.669 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 17:17:45.671 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 17:17:46.086 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:34:14.080 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:34:17.160 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:34:17.182 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:34:17.259 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:34:24.752 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:34:24.753 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:34:24.761 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:34:24.795 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:34:24.796 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:34:25.084 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:35:19.851 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:35:22.386 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:35:22.415 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:35:22.489 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:35:31.277 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:35:31.277 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:35:31.282 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:35:31.315 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:35:31.317 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:35:31.630 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:35:43.068 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:35:43.830 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 18:36:33.334 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:36:36.012 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:36:36.032 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:36:36.091 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:36:46.255 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:36:46.255 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:36:46.258 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:36:46.291 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:36:46.293 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:36:46.601 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:36:57.481 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:36:58.279 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 18:37:40.104 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:37:43.147 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:37:43.170 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:37:43.249 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:37:52.108 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:37:52.109 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:37:52.114 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:37:52.145 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:37:52.147 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:37:52.427 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:38:03.135 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:38:03.905 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 18:41:19.256 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:41:22.128 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:41:22.149 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:41:22.207 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:41:32.588 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:41:32.588 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:41:32.591 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:41:32.629 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:41:32.631 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:41:32.982 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:41:43.637 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:41:44.418 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 18:58:07.731 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 18:58:10.872 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 18:58:10.893 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 18:58:10.957 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 18:58:18.010 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 18:58:18.010 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 18:58:18.013 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 18:58:18.050 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 18:58:18.052 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:58:18.346 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 18:58:29.058 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 18:58:29.855 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 19:15:19.761 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 19:15:22.473 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 19:15:22.498 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 19:15:22.565 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 19:15:30.009 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 19:15:30.009 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 19:15:30.012 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 19:15:30.046 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 19:15:30.048 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:15:30.344 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 19:15:41.211 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:15:42.001 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 19:16:22.023 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 19:16:24.801 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 19:16:24.831 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 19:16:24.893 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 19:16:31.752 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 19:16:31.752 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 19:16:31.756 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 19:16:31.789 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 19:16:31.791 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:16:32.086 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 19:16:42.884 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:16:43.697 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 19:23:25.209 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 19:23:28.042 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 19:23:28.066 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 19:23:28.132 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 19:23:34.235 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 19:23:34.236 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 19:23:34.247 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 19:23:34.344 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 19:23:34.349 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:23:35.011 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 19:23:42.561 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:23:43.384 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 19:26:49.892 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 19:26:52.932 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 19:26:52.953 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 19:26:53.017 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 19:27:01.768 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 19:27:01.769 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 19:27:01.772 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 19:27:01.806 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 19:27:01.808 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:27:02.110 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 19:27:09.821 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 19:27:10.606 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 20:15:16.225 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 20:15:19.209 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 20:15:19.233 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 20:15:19.307 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 20:15:25.996 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 20:15:25.996 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 20:15:26.002 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 20:15:26.036 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 20:15:26.038 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:15:26.338 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 20:15:33.913 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:15:34.671 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 20:17:39.606 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 20:17:42.575 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 20:17:42.594 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 20:17:42.654 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 20:17:51.916 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 20:17:51.916 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 20:17:51.919 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 20:17:51.951 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 20:17:51.953 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:17:52.230 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 20:17:59.930 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:18:00.750 [main] PackageNegativeTestCases - base images testcases started
+[INFO ] 2021-02-02 20:21:23.515 [main] hyscaleLoginPageTestCase - chromebrowser started
+[INFO ] 2021-02-02 20:21:27.324 [main] hyscaleLoginPageTestCase - titletest
+[INFO ] 2021-02-02 20:21:27.358 [main] hyscaleLoginPageTestCase - login page factory constructor
+[INFO ] 2021-02-02 20:21:27.466 [main] hyscaleLoginPageTestCase - Logo test
+[INFO ] 2021-02-02 20:21:35.151 [main] hyscaleLoginPageTestCase - login test is successful
+[INFO ] 2021-02-02 20:21:35.151 [main] hyscaleLoginPageTestCase - Email  and passowrd entered
+[INFO ] 2021-02-02 20:21:35.157 [main] hyscaleLoginPageTestCase - home page factory constructor
+[INFO ] 2021-02-02 20:21:35.193 [main] hyscaleLoginPageTestCase - verified the login user
+[INFO ] 2021-02-02 20:21:35.196 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:21:35.513 [main] PackageNegativeTestCases - packages testcase started
+[INFO ] 2021-02-02 20:21:43.283 [main] hyscaleLoginPageTestCase - get driver
+[INFO ] 2021-02-02 20:21:44.051 [main] PackageNegativeTestCases - base images testcases started
