@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM library/tomcat
 RUN echo "test"
