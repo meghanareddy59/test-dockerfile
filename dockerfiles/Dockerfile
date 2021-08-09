@@ -1,2 +1,2 @@
-From ubuntu:1.0_1
+From ubuntu:14.04
 RUN echo "test"
