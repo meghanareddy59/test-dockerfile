@@ -1,4 +1,4 @@
 #FROM library/tomcat
 #RUN echo "test"
-FROM ubuntu:990
+FROM ubuntu
 RUN echo "hi"
