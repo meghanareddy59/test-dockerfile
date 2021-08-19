@@ -1,4 +1,4 @@
 #FROM library/tomcat
 #RUN echo "test"
-FROM meghanareddy2/blockosimage:1.2
+FROM ubuntu:990
 RUN echo "hi"
