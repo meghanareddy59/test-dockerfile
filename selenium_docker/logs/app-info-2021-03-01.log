@@ -1,8 +1,0 @@
-[INFO ] 2021-03-01 12:14:05.813 [TestNG-tests-1] hyscaleLoginPageTestCase - chromebrowser started
-[INFO ] 2021-03-01 12:14:11.234 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
-[INFO ] 2021-03-01 12:14:11.482 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
-[INFO ] 2021-03-01 12:14:27.383 [TestNG-tests-1] hyscaleLoginPageTestCase - titletest
-[INFO ] 2021-03-01 12:14:27.424 [TestNG-tests-1] hyscaleLoginPageTestCase - login page factory constructor
-[INFO ] 2021-03-01 12:14:27.530 [TestNG-tests-1] hyscaleLoginPageTestCase - Logo test
-[INFO ] 2021-03-01 12:14:48.036 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
-[INFO ] 2021-03-01 12:14:48.114 [TestNG-tests-1] hyscaleLoginPageTestCase - get driver
