@@ -1,5 +1,5 @@
 
-FROM docker-registry.hyscale-test:5000/javatomcatjmeter352:1.0_1 AS build
+FROM drfcgvbnj AS build
 RUN echo ‘Random sample text’ > test4.txt
 
 FROM docker-registry.hyscale-test:5000/importhrmsfrontendforqa:8.5_1
