@@ -1,5 +1,5 @@
 
-FROM docker-registry.hyscale-test:5000/wrong:1
+FROM library/tomcat
 RUN echo ‘Random sample text’ > test4.txt
 
 
